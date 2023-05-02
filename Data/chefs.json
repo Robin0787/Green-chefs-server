@@ -1,0 +1,333 @@
+[
+  {
+    "chef_id": 1,
+    "chef_name": "Aisha Rahman",
+    "chef_image": "https://example.com/chef1.jpg",
+    "years_of_experience": 12,
+    "num_of_recipes": 50,
+    "likes": 1000,
+    "chef_recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Beef Bhuna",
+        "recipe_image": "../Assets/Recipe_images/beef_vuna.avif",
+        "recipe_ingredients": ["beef", "onion", "garlic", "ginger", "spices"],
+        "cooking_method": "1. Heat oil in a pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until brown. 4. Add spices and cook until fragrant. 5. Serve hot."
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Chicken Biryani",
+        "recipe_image": "../Assets/Recipe_images/chicken_biriyani.avif",
+        "recipe_ingredients": ["chicken", "rice", "onion", "spices", "yogurt"],
+        "cooking_method": "1. Marinate chicken in yogurt and spices. 2. Cook rice. 3. Fry onions. 4. Layer chicken and rice in a pot. 5. Cook on low heat. 6. Serve hot."
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Fish Curry",
+        "recipe_image": "../Assets/Recipe_images/fish_curry.avif",
+        "recipe_ingredients": [
+          "fish",
+          "onion",
+          "tomato",
+          "spices",
+          "coriander"
+        ],
+        "cooking_method": "1. Heat oil in a pan. 2. Add onions and cook until soft. 3. Add tomatoes and cook until soft. 4. Add spices and cook until fragrant. 5. Add fish and cook until done. 6. Garnish with coriander. 7. Serve hot."
+      }
+    ]
+  },
+  {
+    "chef_id": 2,
+    "chef_name": "Mohammad Ali",
+    "chef_image": "https://example.com/chef2.jpg",
+    "years_of_experience": 20,
+    "num_of_recipes": 80,
+    "likes": 1500,
+    "chef_recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Beef Kala Bhuna",
+        "recipe_image": "../Assets/Recipe_images/beef_kala_bhuna.avif",
+        "recipe_ingredients": ["beef", "onion", "garlic", "ginger", "spices"],
+        "cooking_method": "1. Heat oil in a pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until brown. 4. Add spices and cook until fragrant. 5. Serve hot."
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Chicken Roast",
+        "recipe_image": "../Assets/Recipe_images/chicken_roast.avif",
+        "recipe_ingredients": ["chicken", "yogurt", "spices", "lemon", "oil"],
+        "cooking_method": "1. Marinate chicken in yogurt, spices, and lemon juice. 2. Roast in the oven. 3. Serve hot."
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Shrimp Masala",
+        "recipe_image": "../Assets/Recipe_images/shrimp_masala.avif",
+        "recipe_ingredients": [
+          "shrimp",
+          "onion",
+          "tomato",
+          "spices",
+          "coconut milk"
+        ],
+        "cooking_method": "1. Heat oil in a pan. 2. Add onions and cook until soft. 3. Add tomatoes and cook until soft. 4. Add spices and cook until fragrant. 5. Add shrimp and cook until done. 6. Add coconut milk and cook for a few minutes. 7. Serve hot."
+      }
+    ]
+  },
+  {
+    "chef_id": 3,
+    "chef_name": "Munira Islam",
+    "chef_image": "https://i.imgur.com/7wvDXZk.jpg",
+    "years_of_experience": "15",
+    "num_of_recipes": 28,
+    "likes": 347,
+    "chef_bio": "Munira Islam is a Bangladeshi chef who has been in the culinary industry for over 15 years. She specializes in traditional Bengali cuisine and is known for her unique use of spices and herbs. Her recipes are loved by many and she has a large following of food enthusiasts.",
+    "chef_recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Chicken Curry",
+        "recipe_image": "../Assets/Recipe_images/chicken_curry.avif",
+        "recipe_ingredients": [
+          "1 lb chicken",
+          "2 onions",
+          "1 tomato",
+          "1 tsp ginger paste",
+          "1 tsp garlic paste",
+          "1 tsp cumin",
+          "1 tsp coriander",
+          "1 tsp turmeric",
+          "2 tbsp oil"
+        ],
+        "cooking_method": "1. Heat oil in a pan over medium heat. Add onions and cook until golden brown.\n2. Add ginger and garlic paste and cook for a minute. \n3. Add the chicken, cumin, coriander, turmeric, and salt to the pan. Cook until the chicken is browned on all sides.\n4. Add the tomato and cook for 5-7 minutes until the sauce thickens.\n5. Serve hot with rice or naan bread.",
+        "rating": 4.5
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Mutton Bhuna",
+        "recipe_image": "../Assets/Recipe_images/mutton_bhuna.avif",
+        "recipe_ingredients": [
+          "1 lb mutton",
+          "2 onions",
+          "1 tomato",
+          "1 tsp ginger paste",
+          "1 tsp garlic paste",
+          "1 tsp cumin",
+          "1 tsp coriander",
+          "1 tsp turmeric",
+          "2 tbsp oil"
+        ],
+        "cooking_method": "1. Heat oil in a pan over medium heat. Add onions and cook until golden brown.\n2. Add ginger and garlic paste and cook for a minute. \n3. Add the mutton, cumin, coriander, turmeric, and salt to the pan. Cook until the mutton is browned on all sides.\n4. Add the tomato and cook for 5-7 minutes until the sauce thickens.\n5. Serve hot with rice or naan bread.",
+        "rating": 4.7
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Kachchi Biryani",
+        "recipe_image": "../Assets/Recipe_images/kacci_biriyani.avif",
+        "recipe_ingredients": [
+          "2 lbs basmati rice",
+          "4 lbs goat meat",
+          "2 onions",
+          "1 tomato",
+          "1 tsp ginger paste",
+          "1 tsp garlic paste",
+          "2 tsp cumin",
+          "2 tsp coriander",
+          "2 tsp turmeric",
+          "4 tbsp oil",
+          "4 cups water",
+          "1 cup yogurt",
+          "1/2 cup ghee",
+          "1/2 cup milk",
+          "2 tbsp saffron"
+        ],
+        "cooking_method": "1. Heat oil in a pan over medium heat. Add onions and cook until golden brown.\n2. Add ginger and garlic paste and cook for a minute. \n3. Add the mutton, cumin, coriander, turmeric, and salt to the pan. Cook until the mutton is browned on all sides.\n4. Add the tomato and cook for 5-7 minutes until the sauce thickens.\n5. Serve hot with rice or naan bread."
+      }
+    ]
+  },
+  {
+    "chef_id": 4,
+    "chef_name": "Zakir Hossain",
+    "chef_image": "https://example.com/zakir.jpg",
+    "years_of_experience": 25,
+    "num_of_recipes": 150,
+    "likes": 52000,
+    "chef_recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Bhuna Khichuri",
+        "recipe_image": "../Assets/Recipe_images/bhuna_khichuri.avif",
+        "recipe_ingredients": [
+          "Rice",
+          "Lentils",
+          "Onion",
+          "Garlic",
+          "Ginger",
+          "Spices"
+        ],
+        "cooking_method": "Cook rice and lentils separately, fry onion, garlic, ginger and spices in oil, add rice and lentils and cook for a while.",
+        "rating": 4.5
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Kachchi Biriyani",
+        "recipe_image": "../Assets/Recipe_images/kacci_biriyani.avif",
+        "recipe_ingredients": [
+          "Basmati rice",
+          "Mutton",
+          "Onion",
+          "Garlic",
+          "Ginger",
+          "Spices"
+        ],
+        "cooking_method": "Marinate mutton with spices, fry onion, garlic, ginger and spices in oil, layer rice and mutton in a pot and cook in low heat for a while.",
+        "rating": 4.8
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Jali Kabab",
+        "recipe_image": "../Assets/Recipe_images/jali_kabab.avif",
+        "recipe_ingredients": [
+          "Beef",
+          "Onion",
+          "Garlic",
+          "Ginger",
+          "Spices",
+          "Mint leaves"
+        ],
+        "cooking_method": "Mix beef, onion, garlic, ginger, spices and mint leaves together, shape into kababs and grill until cooked.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "chef_id": 5,
+    "chef_name": "Shahin Alam",
+    "chef_image": "https://example.com/images/chef-shahin-alam.jpg",
+    "years_of_experience": 12,
+    "num_of_recipes": 80,
+    "likes": 4500,
+    "chef_recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Fish Curry",
+        "recipe_image": "../Assets/Recipe_images/fish_curry.avif",
+        "recipe_ingredients": [
+          "1 lb fish",
+          "2 onions",
+          "2 tomatoes",
+          "2 green chilies",
+          "1 tsp turmeric powder",
+          "1 tsp red chili powder",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1 tsp salt",
+          "2 tbsp oil"
+        ],
+        "cooking_method": "1. Marinate the fish with turmeric powder and salt for 10 minutes. \n2. Heat oil in a pan and fry the fish until golden brown. \n3. In the same pan, add onions and green chilies and sauté until onions are translucent. \n4. Add tomatoes, cumin powder, coriander powder, red chili powder, and salt. Cook for 5 minutes. \n5. Add 1 cup of water and bring to a boil. \n6. Add the fried fish and simmer for 10 minutes. \n7. Garnish with fresh coriander leaves and serve hot."
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Chicken Bhuna",
+        "recipe_image": "../Assets/Recipe_images/chicken_curry.avif",
+        "recipe_ingredients": [
+          "2 lbs chicken",
+          "2 onions",
+          "2 tomatoes",
+          "1 tsp turmeric powder",
+          "1 tsp red chili powder",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1 tsp garam masala powder",
+          "1 tsp salt",
+          "2 tbsp oil"
+        ],
+        "cooking_method": "1. Heat oil in a pan and fry the chicken until golden brown. \n2. In the same pan, add onions and sauté until onions are translucent. \n3. Add tomatoes, cumin powder, coriander powder, red chili powder, garam masala powder, and salt. Cook for 5 minutes. \n4. Add 1 cup of water and bring to a boil. \n5. Simmer until the chicken is fully cooked and the gravy thickens. \n6. Garnish with fresh coriander leaves and serve hot."
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Beef Rezala",
+        "recipe_image": "../Assets/Recipe_images/beef_rezala.avif",
+        "recipe_ingredients": [
+          "2 lbs beef",
+          "2 onions",
+          "2 green chilies",
+          "1 tsp ginger paste",
+          "1 tsp garlic paste",
+          "1 tsp turmeric powder",
+          "1 tsp red chili powder",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1 tsp garam masala powder",
+          "1 tsp salt",
+          "2 tbsp ghee"
+        ],
+        "cooking_method": "1. Heat ghee in a pan and fry the onions and green chilies until the onions are golden brown. \n2. Add ginger paste and garlic paste and sauté for 1 minute. \n3. Add beef, turmeric powder, red chili powder, cumin powder, coriander powder, garam masala powder, and salt. Cook for 10 minutes. \n4. Add 1 cup of water and bring to a boil. \n5. Simmer until the beef is fully cooked and the gravy thick"
+      }
+    ]
+  },
+  {
+    "chef_id": 6,
+    "chef_name": "Siddika Kabir",
+    "chef_image": "https://example.com/chef-siddika-kabir.jpg",
+    "years_of_experience": 40,
+    "num_of_recipes": 200,
+    "likes": 5000,
+    "chef_recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Beef Bhuna",
+        "recipe_image": "../Assets/Recipe_images/beef_vuna.avif",
+        "recipe_ingredients": [
+          "Beef",
+          "Onion",
+          "Garlic",
+          "Ginger",
+          "Tomato",
+          "Green chili",
+          "Red chili powder",
+          "Turmeric powder",
+          "Coriander powder",
+          "Cumin powder",
+          "Garam masala",
+          "Oil",
+          "Salt"
+        ],
+        "cooking_method": "1. Heat oil in a pan and add onion, garlic, and ginger. Fry until light brown. \n2. Add beef, turmeric powder, coriander powder, cumin powder, red chili powder, and salt. Mix well and cook for 10-15 minutes. \n3. Add chopped tomatoes, green chili, and garam masala. Mix well and cook for another 10-15 minutes until the beef is tender and the water dries up. \n4. Serve hot with rice or naan."
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Shorshe Ilish",
+        "recipe_image": "../Assets/Recipe_images/Shorshe_Ilish.avif",
+        "recipe_ingredients": [
+          "Hilsa fish",
+          "Mustard paste",
+          "Turmeric powder",
+          "Green chili",
+          "Salt",
+          "Mustard oil"
+        ],
+        "cooking_method": "1. Wash the fish properly and marinate it with salt and turmeric powder. \n2. Heat mustard oil in a pan and fry the fish until golden brown. Take out the fish and keep it aside. \n3. In the same pan, add mustard paste, green chili, salt, and a little bit of turmeric powder. Mix well and fry for 2-3 minutes. \n4. Add water and bring it to boil. \n5. Add the fried fish and cook for 5-7 minutes. \n6. Serve hot with rice."
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Chapli Kabab",
+        "recipe_image": "../Assets/Recipe_images/chapli_kabab.avif",
+        "recipe_ingredients": [
+          "Minced beef",
+          "Onion",
+          "Tomato",
+          "Green chili",
+          "Cilantro",
+          "Coriander powder",
+          "Cumin powder",
+          "Red chili powder",
+          "Turmeric powder",
+          "Salt",
+          "Egg",
+          "Bread crumbs",
+          "Oil"
+        ],
+        "cooking_method": "1. In a bowl, mix minced beef, chopped onion, chopped tomato, green chili, cilantro, coriander powder, cumin powder, red chili powder, turmeric powder, and salt. \n2. Add egg and bread crumbs. Mix well. \n3. Make small round-shaped kababs. \n4. Heat oil in a pan and fry the kababs until golden brown. \n5. Serve hot with green chutney."
+      }
+    ]
+  }
+]
