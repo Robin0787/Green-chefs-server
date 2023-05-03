@@ -12,6 +12,7 @@
         "recipe_id": 1,
         "recipe_name": "Beef Bhuna",
         "recipe_image": "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370896.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.1.1883157990.1673798635&semt=ais",
+        "rating": 4.8,
         "recipe_ingredients": ["beef", "onion", "garlic", "ginger", "spices"],
         "cooking_method": "1. Heat oil in a pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until brown. 4. Add spices and cook until fragrant. 5. Serve hot."
       },
@@ -19,6 +20,7 @@
         "recipe_id": 2,
         "recipe_name": "Chicken Biryani",
         "recipe_image": "https://img.freepik.com/free-photo/whole-chicken-grill-served-with-rice-garnish-white-plate_114579-873.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.1.1883157990.1673798635&semt=ais",
+        "rating": 4.3,
         "recipe_ingredients": ["chicken", "rice", "onion", "spices", "yogurt"],
         "cooking_method": "1. Marinate chicken in yogurt and spices. 2. Cook rice. 3. Fry onions. 4. Layer chicken and rice in a pot. 5. Cook on low heat. 6. Serve hot."
       },
@@ -26,6 +28,7 @@
         "recipe_id": 3,
         "recipe_name": "Fish Curry",
         "recipe_image": "https://img.freepik.com/free-photo/top-view-delicious-fish-meal-tray_23-2148734692.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.2.1883157990.1673798635&semt=ais",
+        "rating": 4,
         "recipe_ingredients": [
           "fish",
           "onion",
@@ -50,6 +53,7 @@
         "recipe_id": 1,
         "recipe_name": "Beef Kala Bhuna",
         "recipe_image": "https://img.freepik.com/free-photo/fried-chicken-liver-with-onions-herbs_2829-19702.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.2.1883157990.1673798635&semt=ais",
+        "rating": 4.3,
         "recipe_ingredients": ["beef", "onion", "garlic", "ginger", "spices"],
         "cooking_method": "1. Heat oil in a pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until brown. 4. Add spices and cook until fragrant. 5. Serve hot."
       },
@@ -57,6 +61,7 @@
         "recipe_id": 2,
         "recipe_name": "Chicken Roast",
         "recipe_image": "https://img.freepik.com/free-photo/closeup-shot-deliciously-prepared-chicken-served-with-onions-chili-sauce_181624-61705.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.1.1883157990.1673798635&semt=ais",
+        "rating": "4.5",
         "recipe_ingredients": ["chicken", "yogurt", "spices", "lemon", "oil"],
         "cooking_method": "1. Marinate chicken in yogurt, spices, and lemon juice. 2. Roast in the oven. 3. Serve hot."
       },
@@ -64,6 +69,7 @@
         "recipe_id": 3,
         "recipe_name": "Shrimp Masala",
         "recipe_image": "https://img.freepik.com/free-photo/thai-food-tom-yum-kung-river-prawn-spicy-soup_1150-35461.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.1.1883157990.1673798635&semt=ais",
+        "rating": 3.8,
         "recipe_ingredients": [
           "shrimp",
           "onion",
@@ -88,6 +94,7 @@
         "recipe_id": 1,
         "recipe_name": "Chicken Curry",
         "recipe_image": "https://img.freepik.com/free-photo/massaman-curry-frying-pan-with-spices-cement-floor_1150-20777.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.1.1883157990.1673798635&semt=ais",
+        "rating": 5,
         "recipe_ingredients": [
           "1 lb chicken",
           "2 onions",
@@ -99,13 +106,13 @@
           "1 tsp turmeric",
           "2 tbsp oil"
         ],
-        "cooking_method": "1. Heat oil in a pan over medium heat. Add onions and cook until golden brown.\n2. Add ginger and garlic paste and cook for a minute. \n3. Add the chicken, cumin, coriander, turmeric, and salt to the pan. Cook until the chicken is browned on all sides.\n4. Add the tomato and cook for 5-7 minutes until the sauce thickens.\n5. Serve hot with rice or naan bread.",
-        "rating": 4.5
+        "cooking_method": "1. Heat oil in a pan over medium heat. Add onions and cook until golden brown.\n2. Add ginger and garlic paste and cook for a minute. \n3. Add the chicken, cumin, coriander, turmeric, and salt to the pan. Cook until the chicken is browned on all sides.\n4. Add the tomato and cook for 5-7 minutes until the sauce thickens.\n5. Serve hot with rice or naan bread."
       },
       {
         "recipe_id": 2,
         "recipe_name": "Mutton Bhuna",
         "recipe_image": "https://img.freepik.com/free-photo/tasty-pakistani-dishhigh-angle_23-2148825148.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.1.1883157990.1673798635&semt=ais",
+        "rating": 4.7,
         "recipe_ingredients": [
           "1 lb mutton",
           "2 onions",
@@ -117,13 +124,13 @@
           "1 tsp turmeric",
           "2 tbsp oil"
         ],
-        "cooking_method": "1. Heat oil in a pan over medium heat. Add onions and cook until golden brown.\n2. Add ginger and garlic paste and cook for a minute. \n3. Add the mutton, cumin, coriander, turmeric, and salt to the pan. Cook until the mutton is browned on all sides.\n4. Add the tomato and cook for 5-7 minutes until the sauce thickens.\n5. Serve hot with rice or naan bread.",
-        "rating": 4.7
+        "cooking_method": "1. Heat oil in a pan over medium heat. Add onions and cook until golden brown.\n2. Add ginger and garlic paste and cook for a minute. \n3. Add the mutton, cumin, coriander, turmeric, and salt to the pan. Cook until the mutton is browned on all sides.\n4. Add the tomato and cook for 5-7 minutes until the sauce thickens.\n5. Serve hot with rice or naan bread."
       },
       {
         "recipe_id": 3,
         "recipe_name": "Kachchi Biryani",
         "recipe_image": "https://img.freepik.com/free-photo/top-view-rice-with-carrot-cooked-with-lamb-served-with-yogurt-salad_141793-2449.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.2.1883157990.1673798635&semt=ais",
+        "rating": 4.9,
         "recipe_ingredients": [
           "2 lbs basmati rice",
           "4 lbs goat meat",
@@ -158,6 +165,7 @@
         "recipe_id": 1,
         "recipe_name": "Bhuna Khichuri",
         "recipe_image": "https://img.freepik.com/free-photo/indian-food-arrangement-high-angle_23-2148747620.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.2.1883157990.1673798635&semt=ais",
+        "rating": 5,
         "recipe_ingredients": [
           "Rice",
           "Lentils",
@@ -166,13 +174,13 @@
           "Ginger",
           "Spices"
         ],
-        "cooking_method": "Cook rice and lentils separately, fry onion, garlic, ginger and spices in oil, add rice and lentils and cook for a while.",
-        "rating": 4.5
+        "cooking_method": "Cook rice and lentils separately, fry onion, garlic, ginger and spices in oil, add rice and lentils and cook for a while."
       },
       {
         "recipe_id": 2,
         "recipe_name": "Kachchi Biriyani",
         "recipe_image": "https://img.freepik.com/free-photo/top-view-rice-with-carrot-cooked-with-lamb-served-with-yogurt-salad_141793-2449.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.2.1883157990.1673798635&semt=ais",
+        "rating": 4.3,
         "recipe_ingredients": [
           "Basmati rice",
           "Mutton",
@@ -181,13 +189,13 @@
           "Ginger",
           "Spices"
         ],
-        "cooking_method": "Marinate mutton with spices, fry onion, garlic, ginger and spices in oil, layer rice and mutton in a pot and cook in low heat for a while.",
-        "rating": 4.8
+        "cooking_method": "Marinate mutton with spices, fry onion, garlic, ginger and spices in oil, layer rice and mutton in a pot and cook in low heat for a while."
       },
       {
         "recipe_id": 3,
         "recipe_name": "Jali Kabab",
         "recipe_image": "https://img.freepik.com/free-photo/flat-lay-tasty-kebab-with-condiments-plate_23-2148685477.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.1.1883157990.1673798635&semt=ais",
+        "rating": 4.2,
         "recipe_ingredients": [
           "Beef",
           "Onion",
@@ -196,8 +204,7 @@
           "Spices",
           "Mint leaves"
         ],
-        "cooking_method": "Mix beef, onion, garlic, ginger, spices and mint leaves together, shape into kababs and grill until cooked.",
-        "rating": 4.2
+        "cooking_method": "Mix beef, onion, garlic, ginger, spices and mint leaves together, shape into kababs and grill until cooked."
       }
     ]
   },
@@ -214,6 +221,7 @@
         "recipe_id": 1,
         "recipe_name": "Fish Curry",
         "recipe_image": "https://img.freepik.com/free-photo/top-view-delicious-fish-meal-tray_23-2148734692.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.1.1883157990.1673798635&semt=ais",
+        "rating": 4.8,
         "recipe_ingredients": [
           "1 lb fish",
           "2 onions",
@@ -232,6 +240,7 @@
         "recipe_id": 2,
         "recipe_name": "Chicken Bhuna",
         "recipe_image": "https://img.freepik.com/free-photo/massaman-curry-frying-pan-with-spices-cement-floor_1150-20777.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.1.1883157990.1673798635&semt=ais",
+        "rating": 4.2,
         "recipe_ingredients": [
           "2 lbs chicken",
           "2 onions",
@@ -250,6 +259,7 @@
         "recipe_id": 3,
         "recipe_name": "Beef Rezala",
         "recipe_image": "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370896.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.1.1883157990.1673798635&semt=ais",
+        "rating": 5,
         "recipe_ingredients": [
           "2 lbs beef",
           "2 onions",
@@ -281,6 +291,7 @@
         "recipe_id": 1,
         "recipe_name": "Beef Bhuna",
         "recipe_image": "https://img.freepik.com/free-photo/delicious-carrot-beef-brisket-casserole_1205-12295.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.1.1883157990.1673798635&semt=ais",
+        "rating": 4.8,
         "recipe_ingredients": [
           "Beef",
           "Onion",
@@ -302,6 +313,7 @@
         "recipe_id": 2,
         "recipe_name": "Shorshe Ilish",
         "recipe_image": "https://img.freepik.com/free-photo/top-view-delicious-fish-meal_23-2148734691.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.1.1883157990.1673798635&semt=ais",
+        "rating": 4.1,
         "recipe_ingredients": [
           "Hilsa fish",
           "Mustard paste",
@@ -316,6 +328,7 @@
         "recipe_id": 3,
         "recipe_name": "Chapli Kabab",
         "recipe_image": "https://img.freepik.com/free-photo/top-view-delicious-kebab-slate-with-salad-ketchup_23-2148685527.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.1.1883157990.1673798635&semt=ais",
+        "rating": 5,
         "recipe_ingredients": [
           "Minced beef",
           "Onion",
