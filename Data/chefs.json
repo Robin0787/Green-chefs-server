@@ -1,30 +1,31 @@
 [
   {
     "chef_id": 1,
-    "chef_name": "Aisha Rahman",
-    "chef_image": "https://example.com/chef1.jpg",
+    "chef_name": "Shelly Nuruzzaman",
+    "chef_image": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Shelly-Nuruzzaman-top-10-chefs-in-Bangladesh.jpg",
     "years_of_experience": 12,
     "num_of_recipes": 50,
     "likes": 1000,
+    "chef_bio": "Shelly Nuruzzaman is a Bangladeshi chef who has been in the culinary industry for over 15 years. She specializes in traditional Bengali cuisine and is known for her unique use of spices and herbs. Her recipes are loved by many and she has a large following of food enthusiasts.",
     "chef_recipes": [
       {
         "recipe_id": 1,
         "recipe_name": "Beef Bhuna",
-        "recipe_image": "../Assets/Recipe_images/beef_vuna.avif",
+        "recipe_image": "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370896.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.1.1883157990.1673798635&semt=ais",
         "recipe_ingredients": ["beef", "onion", "garlic", "ginger", "spices"],
         "cooking_method": "1. Heat oil in a pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until brown. 4. Add spices and cook until fragrant. 5. Serve hot."
       },
       {
         "recipe_id": 2,
         "recipe_name": "Chicken Biryani",
-        "recipe_image": "../Assets/Recipe_images/chicken_biriyani.avif",
+        "recipe_image": "https://img.freepik.com/free-photo/whole-chicken-grill-served-with-rice-garnish-white-plate_114579-873.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.1.1883157990.1673798635&semt=ais",
         "recipe_ingredients": ["chicken", "rice", "onion", "spices", "yogurt"],
         "cooking_method": "1. Marinate chicken in yogurt and spices. 2. Cook rice. 3. Fry onions. 4. Layer chicken and rice in a pot. 5. Cook on low heat. 6. Serve hot."
       },
       {
         "recipe_id": 3,
         "recipe_name": "Fish Curry",
-        "recipe_image": "../Assets/Recipe_images/fish_curry.avif",
+        "recipe_image": "https://img.freepik.com/free-photo/top-view-delicious-fish-meal-tray_23-2148734692.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.2.1883157990.1673798635&semt=ais",
         "recipe_ingredients": [
           "fish",
           "onion",
@@ -38,30 +39,31 @@
   },
   {
     "chef_id": 2,
-    "chef_name": "Mohammad Ali",
-    "chef_image": "https://example.com/chef2.jpg",
+    "chef_name": "Manik Miah",
+    "chef_image": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg",
     "years_of_experience": 20,
     "num_of_recipes": 80,
     "likes": 1500,
+    "chef_bio": "Manik Miah is a Bangladeshi chef who has been in the culinary industry for over 15 years. She specializes in traditional Bengali cuisine and is known for her unique use of spices and herbs. Her recipes are loved by many and she has a large following of food enthusiasts.",
     "chef_recipes": [
       {
         "recipe_id": 1,
         "recipe_name": "Beef Kala Bhuna",
-        "recipe_image": "../Assets/Recipe_images/beef_kala_bhuna.avif",
+        "recipe_image": "https://img.freepik.com/free-photo/fried-chicken-liver-with-onions-herbs_2829-19702.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.2.1883157990.1673798635&semt=ais",
         "recipe_ingredients": ["beef", "onion", "garlic", "ginger", "spices"],
         "cooking_method": "1. Heat oil in a pan. 2. Add onions, garlic, and ginger. 3. Add beef and cook until brown. 4. Add spices and cook until fragrant. 5. Serve hot."
       },
       {
         "recipe_id": 2,
         "recipe_name": "Chicken Roast",
-        "recipe_image": "../Assets/Recipe_images/chicken_roast.avif",
+        "recipe_image": "https://img.freepik.com/free-photo/closeup-shot-deliciously-prepared-chicken-served-with-onions-chili-sauce_181624-61705.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.1.1883157990.1673798635&semt=ais",
         "recipe_ingredients": ["chicken", "yogurt", "spices", "lemon", "oil"],
         "cooking_method": "1. Marinate chicken in yogurt, spices, and lemon juice. 2. Roast in the oven. 3. Serve hot."
       },
       {
         "recipe_id": 3,
         "recipe_name": "Shrimp Masala",
-        "recipe_image": "../Assets/Recipe_images/shrimp_masala.avif",
+        "recipe_image": "https://img.freepik.com/free-photo/thai-food-tom-yum-kung-river-prawn-spicy-soup_1150-35461.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.1.1883157990.1673798635&semt=ais",
         "recipe_ingredients": [
           "shrimp",
           "onion",
@@ -75,8 +77,8 @@
   },
   {
     "chef_id": 3,
-    "chef_name": "Munira Islam",
-    "chef_image": "https://i.imgur.com/7wvDXZk.jpg",
+    "chef_name": "Asad Latif",
+    "chef_image": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Asad-Latif-top-ten-chefs-in-Bangladesh-768x576.jpg",
     "years_of_experience": "15",
     "num_of_recipes": 28,
     "likes": 347,
@@ -85,7 +87,7 @@
       {
         "recipe_id": 1,
         "recipe_name": "Chicken Curry",
-        "recipe_image": "../Assets/Recipe_images/chicken_curry.avif",
+        "recipe_image": "https://img.freepik.com/free-photo/massaman-curry-frying-pan-with-spices-cement-floor_1150-20777.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.1.1883157990.1673798635&semt=ais",
         "recipe_ingredients": [
           "1 lb chicken",
           "2 onions",
@@ -103,7 +105,7 @@
       {
         "recipe_id": 2,
         "recipe_name": "Mutton Bhuna",
-        "recipe_image": "../Assets/Recipe_images/mutton_bhuna.avif",
+        "recipe_image": "https://img.freepik.com/free-photo/tasty-pakistani-dishhigh-angle_23-2148825148.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.1.1883157990.1673798635&semt=ais",
         "recipe_ingredients": [
           "1 lb mutton",
           "2 onions",
@@ -121,7 +123,7 @@
       {
         "recipe_id": 3,
         "recipe_name": "Kachchi Biryani",
-        "recipe_image": "../Assets/Recipe_images/kacci_biriyani.avif",
+        "recipe_image": "https://img.freepik.com/free-photo/top-view-rice-with-carrot-cooked-with-lamb-served-with-yogurt-salad_141793-2449.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.2.1883157990.1673798635&semt=ais",
         "recipe_ingredients": [
           "2 lbs basmati rice",
           "4 lbs goat meat",
@@ -145,16 +147,17 @@
   },
   {
     "chef_id": 4,
-    "chef_name": "Zakir Hossain",
-    "chef_image": "https://example.com/zakir.jpg",
+    "chef_name": "Chef Tony",
+    "chef_image": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Tony-top-chefs-in-Bangladesh.jpg",
     "years_of_experience": 25,
     "num_of_recipes": 150,
     "likes": 52000,
+    "chef_bio": "Chef Tony is a Bangladeshi chef who has been in the culinary industry for over 15 years. She specializes in traditional Bengali cuisine and is known for her unique use of spices and herbs. Her recipes are loved by many and she has a large following of food enthusiasts.",
     "chef_recipes": [
       {
         "recipe_id": 1,
         "recipe_name": "Bhuna Khichuri",
-        "recipe_image": "../Assets/Recipe_images/bhuna_khichuri.avif",
+        "recipe_image": "https://img.freepik.com/free-photo/indian-food-arrangement-high-angle_23-2148747620.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.2.1883157990.1673798635&semt=ais",
         "recipe_ingredients": [
           "Rice",
           "Lentils",
@@ -169,7 +172,7 @@
       {
         "recipe_id": 2,
         "recipe_name": "Kachchi Biriyani",
-        "recipe_image": "../Assets/Recipe_images/kacci_biriyani.avif",
+        "recipe_image": "https://img.freepik.com/free-photo/top-view-rice-with-carrot-cooked-with-lamb-served-with-yogurt-salad_141793-2449.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.2.1883157990.1673798635&semt=ais",
         "recipe_ingredients": [
           "Basmati rice",
           "Mutton",
@@ -184,7 +187,7 @@
       {
         "recipe_id": 3,
         "recipe_name": "Jali Kabab",
-        "recipe_image": "../Assets/Recipe_images/jali_kabab.avif",
+        "recipe_image": "https://img.freepik.com/free-photo/flat-lay-tasty-kebab-with-condiments-plate_23-2148685477.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.1.1883157990.1673798635&semt=ais",
         "recipe_ingredients": [
           "Beef",
           "Onion",
@@ -200,16 +203,17 @@
   },
   {
     "chef_id": 5,
-    "chef_name": "Shahin Alam",
-    "chef_image": "https://example.com/images/chef-shahin-alam.jpg",
+    "chef_name": "Kiran Jethwa",
+    "chef_image": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/KIRAN-JETHWA-top-chefs-in-Bangladesh-960x480.jpg",
     "years_of_experience": 12,
     "num_of_recipes": 80,
     "likes": 4500,
+    "chef_bio": "Kiran Jethwa is a Bangladeshi chef who has been in the culinary industry for over 15 years. She specializes in traditional Bengali cuisine and is known for her unique use of spices and herbs. Her recipes are loved by many and she has a large following of food enthusiasts.",
     "chef_recipes": [
       {
         "recipe_id": 1,
         "recipe_name": "Fish Curry",
-        "recipe_image": "../Assets/Recipe_images/fish_curry.avif",
+        "recipe_image": "https://img.freepik.com/free-photo/top-view-delicious-fish-meal-tray_23-2148734692.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.1.1883157990.1673798635&semt=ais",
         "recipe_ingredients": [
           "1 lb fish",
           "2 onions",
@@ -227,7 +231,7 @@
       {
         "recipe_id": 2,
         "recipe_name": "Chicken Bhuna",
-        "recipe_image": "../Assets/Recipe_images/chicken_curry.avif",
+        "recipe_image": "https://img.freepik.com/free-photo/massaman-curry-frying-pan-with-spices-cement-floor_1150-20777.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.1.1883157990.1673798635&semt=ais",
         "recipe_ingredients": [
           "2 lbs chicken",
           "2 onions",
@@ -245,7 +249,7 @@
       {
         "recipe_id": 3,
         "recipe_name": "Beef Rezala",
-        "recipe_image": "../Assets/Recipe_images/beef_rezala.avif",
+        "recipe_image": "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370896.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.1.1883157990.1673798635&semt=ais",
         "recipe_ingredients": [
           "2 lbs beef",
           "2 onions",
@@ -266,16 +270,17 @@
   },
   {
     "chef_id": 6,
-    "chef_name": "Siddika Kabir",
-    "chef_image": "https://example.com/chef-siddika-kabir.jpg",
+    "chef_name": "Feroz Khan",
+    "chef_image": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Feroze-Khan-top-10-chefs-in-Bangladesh.jpg",
     "years_of_experience": 40,
     "num_of_recipes": 200,
     "likes": 5000,
+    "chef_bio": "Feroz Khan is a Bangladeshi chef who has been in the culinary industry for over 15 years. She specializes in traditional Bengali cuisine and is known for her unique use of spices and herbs. Her recipes are loved by many and she has a large following of food enthusiasts.",
     "chef_recipes": [
       {
         "recipe_id": 1,
         "recipe_name": "Beef Bhuna",
-        "recipe_image": "../Assets/Recipe_images/beef_vuna.avif",
+        "recipe_image": "https://img.freepik.com/free-photo/delicious-carrot-beef-brisket-casserole_1205-12295.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.1.1883157990.1673798635&semt=ais",
         "recipe_ingredients": [
           "Beef",
           "Onion",
@@ -296,7 +301,7 @@
       {
         "recipe_id": 2,
         "recipe_name": "Shorshe Ilish",
-        "recipe_image": "../Assets/Recipe_images/Shorshe_Ilish.avif",
+        "recipe_image": "https://img.freepik.com/free-photo/top-view-delicious-fish-meal_23-2148734691.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.1.1883157990.1673798635&semt=ais",
         "recipe_ingredients": [
           "Hilsa fish",
           "Mustard paste",
@@ -310,7 +315,7 @@
       {
         "recipe_id": 3,
         "recipe_name": "Chapli Kabab",
-        "recipe_image": "../Assets/Recipe_images/chapli_kabab.avif",
+        "recipe_image": "https://img.freepik.com/free-photo/top-view-delicious-kebab-slate-with-salad-ketchup_23-2148685527.jpg?size=626&ext=jpg&uid=R101316449&ga=GA1.1.1883157990.1673798635&semt=ais",
         "recipe_ingredients": [
           "Minced beef",
           "Onion",
