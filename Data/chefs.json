@@ -6,7 +6,7 @@
     "years_of_experience": 12,
     "num_of_recipes": 50,
     "likes": 1000,
-    "chef_bio": "Shelly Nuruzzaman is a Bangladeshi chef who has been in the culinary industry for over 15 years. She specializes in traditional Bengali cuisine and is known for her unique use of spices and herbs. Her recipes are loved by many and she has a large following of food enthusiasts.",
+    "chef_bio": "Shelly Nuruzzaman is a Bangladeshi chef who has been in the culinary industry for over 12 years. She specializes in traditional Bengali cuisine and is known for her unique use of spices and herbs. Her recipes are loved by many and she has a large following of food enthusiasts.",
     "chef_recipes": [
       {
         "recipe_id": 1,
@@ -44,7 +44,7 @@
     "years_of_experience": 20,
     "num_of_recipes": 80,
     "likes": 1500,
-    "chef_bio": "Manik Miah is a Bangladeshi chef who has been in the culinary industry for over 15 years. She specializes in traditional Bengali cuisine and is known for her unique use of spices and herbs. Her recipes are loved by many and she has a large following of food enthusiasts.",
+    "chef_bio": "Manik Miah is a Bangladeshi chef who has been in the culinary industry for over 20 years. She specializes in traditional Bengali cuisine and is known for her unique use of spices and herbs. Her recipes are loved by many and she has a large following of food enthusiasts.",
     "chef_recipes": [
       {
         "recipe_id": 1,
@@ -82,7 +82,7 @@
     "years_of_experience": "15",
     "num_of_recipes": 28,
     "likes": 347,
-    "chef_bio": "Munira Islam is a Bangladeshi chef who has been in the culinary industry for over 15 years. She specializes in traditional Bengali cuisine and is known for her unique use of spices and herbs. Her recipes are loved by many and she has a large following of food enthusiasts.",
+    "chef_bio": "Asad Latif is a Bangladeshi chef who has been in the culinary industry for over 15 years. She specializes in traditional Bengali cuisine and is known for her unique use of spices and herbs. Her recipes are loved by many and she has a large following of food enthusiasts.",
     "chef_recipes": [
       {
         "recipe_id": 1,
@@ -152,7 +152,7 @@
     "years_of_experience": 25,
     "num_of_recipes": 150,
     "likes": 52000,
-    "chef_bio": "Chef Tony is a Bangladeshi chef who has been in the culinary industry for over 15 years. She specializes in traditional Bengali cuisine and is known for her unique use of spices and herbs. Her recipes are loved by many and she has a large following of food enthusiasts.",
+    "chef_bio": "Chef Tony is a Bangladeshi chef who has been in the culinary industry for over 25 years. She specializes in traditional Bengali cuisine and is known for her unique use of spices and herbs. Her recipes are loved by many and she has a large following of food enthusiasts.",
     "chef_recipes": [
       {
         "recipe_id": 1,
@@ -208,7 +208,7 @@
     "years_of_experience": 12,
     "num_of_recipes": 80,
     "likes": 4500,
-    "chef_bio": "Kiran Jethwa is a Bangladeshi chef who has been in the culinary industry for over 15 years. She specializes in traditional Bengali cuisine and is known for her unique use of spices and herbs. Her recipes are loved by many and she has a large following of food enthusiasts.",
+    "chef_bio": "Kiran Jethwa is a Bangladeshi chef who has been in the culinary industry for over 12 years. She specializes in traditional Bengali cuisine and is known for her unique use of spices and herbs. Her recipes are loved by many and she has a large following of food enthusiasts.",
     "chef_recipes": [
       {
         "recipe_id": 1,
@@ -272,10 +272,10 @@
     "chef_id": 6,
     "chef_name": "Feroz Khan",
     "chef_image": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Feroze-Khan-top-10-chefs-in-Bangladesh.jpg",
-    "years_of_experience": 40,
+    "years_of_experience": 30,
     "num_of_recipes": 200,
     "likes": 5000,
-    "chef_bio": "Feroz Khan is a Bangladeshi chef who has been in the culinary industry for over 15 years. She specializes in traditional Bengali cuisine and is known for her unique use of spices and herbs. Her recipes are loved by many and she has a large following of food enthusiasts.",
+    "chef_bio": "Feroz Khan is a Bangladeshi chef who has been in the culinary industry for over 30 years. She specializes in traditional Bengali cuisine and is known for her unique use of spices and herbs. Her recipes are loved by many and she has a large following of food enthusiasts.",
     "chef_recipes": [
       {
         "recipe_id": 1,
